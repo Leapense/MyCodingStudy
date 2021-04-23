@@ -2,9 +2,12 @@
 
 int main()
 {
-	int num1;
-	int num2;
-	int num3;
+//	int num1;
+//	int num2;
+//	int num3;
+
+	// 더 간단하게 하는 방법이 있습니다.
+	int num1, num2, num3;
 
 	num1 = 10;
 	num2 = 20;
