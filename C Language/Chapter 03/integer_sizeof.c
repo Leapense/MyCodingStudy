@@ -7,7 +7,7 @@ int main()
 
 	size = sizeof num1;
 
-	printf("num1ÀÇ Å©±â: %ld\n", size);
+	printf("num1 size: %d\n", size);
 
 	return 0;
 }
